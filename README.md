@@ -1,5 +1,7 @@
 # Tampermonkey: Ekko SteamGifts Annotator
 
+> **已搬家（2026-10-17）**：本腳本改由 [game-watchlist-keeper](https://github.com/YiFanChen99/game-watchlist-keeper) 的 `packages/userscript-steamgifts` 維護與發佈，本 repo 已封存。已安裝的腳本會自動更新到新站；新安裝請用 <https://yifanchen99.github.io/game-watchlist-keeper/steamgifts/Script.user.js>。
+
 ## Features
 
 對 SteamGifts 特定頁面，撈出相關特定對照資料，整合填過來顯示在頁面上：
